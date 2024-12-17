@@ -1,4 +1,4 @@
-package com.example.praktikum7.ui.navigation
+package com.example.praktikum7.ui.Navigation
 
 interface AlamatNavigasi {
     val route: String

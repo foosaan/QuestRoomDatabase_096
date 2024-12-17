@@ -1,9 +1,7 @@
-package com.example.praktikum7.ui.navigation
+package com.example.praktikum7.ui.Navigation
 
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
-import androidx.navigation.NavController
-import androidx.navigation.NavHost
 import androidx.navigation.NavHostController
 import androidx.navigation.NavType
 import androidx.navigation.compose.NavHost
